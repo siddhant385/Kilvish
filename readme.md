@@ -8,13 +8,13 @@
     <a href="https://github.com/siddhant385/Kilvish/releases" target="_blank"><img src="https://img.shields.io/badge/version-v1.0-blue.svg?logo=moo" alt="Release: v1.0" /></a>
     <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="lisence" /></a>
 </p>
-<h4 align="center"> A Cross Platform multifunctional (Windows/Linux/Mac) RAT.</h4>
+<h4 align="center"> A Cross Platform multifunctional (Windows/Linux/Mac) RAT but for now victim is only windows User.</h4>
 
 <h6 align="center"><img src="https://github.com/siddhant385/KilvishRAT/blob/master/.github/1.png?raw=true"></h6>
 
 ## Getting Started
 ### Description
-A cross platform RAT written in pure Python. The RAT accept commands alongside arguments to either perform as the server who accepts connections or to perform as the client/target who establish connections to the server. The **generate** command uses the module **pyinstaller** to compile the actual payload code. So, in order to generate payload file for your respective platform, you need to be on that platform while generating the file. Moreover, you can directly get the source file as well. 
+A  crossplatform RAT written in pure Python with some powershell scripts. The RAT accept commands alongside arguments to either perform as the server who accepts connections or to perform as the client/target who establish connections to the server. The **generate** command uses the module **pyinstaller** to compile the actual payload code. So, in order to generate payload file for your respective platform, you need to be on that platform while generating the file. Moreover, you can directly get the source file as well. 
 
 ### Features
 <ul>
@@ -27,17 +27,22 @@ A cross platform RAT written in pure Python. The RAT accept commands alongside a
     <li>Encrypts the payload using AES Encryption (Thanks to pushpendraindia)</li>
     <li>Pure Python</li>
     <li>Cross Platform. (Tested on Linux. Errors are accepted)</li>
+    <li>Voice commands(Thanks to samratashok/nishang)</li>
+    <li>Additional system info (Thanks to samratashok/nishang)</li>
+    <li>Persistent</li>
     <li>Source File included for testing</li>
+    <li>Less than 10 mb executble file/li>
+    <li>Built in Crypter for encoding in base64 and AES</li>
+    <li>Pushing Notifications when a client connects with plyer</li>
     <li>Python 3</li>
 </ul>
 
 ### To be expected in future
 <ul>
     <li>Stealth Execution</li>
-    <li>Persistence</li>
     <li>Encryption</li>
     <li>Storing Sessions from last attempt</li>
-    <li>Pushing Notifications when a client connects</li>
+    
 </ul>
 
 ### Installation
@@ -107,9 +112,10 @@ Help on a Specific Command:
 $ help COMMAND
 ```
 
-### Support
+### Support my work By giving a Star
+### FORK IT FOR CONTRIBUTION
 
 
-### ORIGINAL CREATOR
+### ORIGINAL CREATOR OF SILLYRAT WHICH IS MODIFIED TO CREATE KILVISH
 Twitter: <a href="//twitter.com/hash3liZer">@hash3liZer</a><br>
 Discord: TheFlash2k#0407
