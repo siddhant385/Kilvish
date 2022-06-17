@@ -1,0 +1,8 @@
+tabulate
+shutil
+io
+psutil
+plyer
+argparse
+pyinstaller
+colorama
