@@ -115,6 +115,12 @@ $ help COMMAND
 ### Support my work By giving a Star
 ### FORK IT FOR CONTRIBUTION
 
+### Disclaimer :
+Usage of this tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+
+### ❤️Supporters❤️
+[![Stargazers repo roster for @siddhant385/Kilvish](https://reporoster.com/stars/siddhant385/Kilvish)](https://github.com/siddhant385/Kilvish/stargazers)
 
 ### ORIGINAL CREATOR OF SILLYRAT WHICH IS MODIFIED TO CREATE KILVISH
 Twitter: <a href="//twitter.com/hash3liZer">@hash3liZer</a><br>
